@@ -1,0 +1,21 @@
+form a {
+    margin-left: 10px;
+}
+
+.post-detail {
+    margin : 20px 0px;
+    align-content: center;
+}
+
+.float-left {
+    float : left;
+}
+
+.float-right {
+    float: right;
+}
+
+.top-buttons {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
